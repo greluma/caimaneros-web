@@ -1,12 +1,12 @@
-- material ui
 - redux toolkit
-- mejorar: git (control de versiones)
+- git (crear ramas de git flow)
 
 
 - jest, rtl
 - mongo & mongoose ?
 - react-query ?
 - i18next
+- material ui
 
 Ya:
 - next
