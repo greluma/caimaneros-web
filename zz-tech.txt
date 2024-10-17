@@ -1,7 +1,6 @@
-- git (control de versiones)
-- css: sass con next modules
 - material ui
 - redux toolkit
+- mejorar: git (control de versiones)
 
 
 - jest, rtl
@@ -9,6 +8,8 @@
 - react-query ?
 - i18next
 
+Ya:
 - next
 - ts
-- app-router: forma de crear rutas de next
+- css: sass con next modules
+- nativa: app-router: forma de crear rutas de next
