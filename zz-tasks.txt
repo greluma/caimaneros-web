@@ -1,0 +1,7 @@
+- Escoger paleta de colores a juego con el logo y titulo
+- Escoger fuente
+- Tamaño de fuente idóneo para móviles
+
+- Cambiar metadatos: idioma, titulo y descripcion a portugues
+- Icono
+- Todas las imágenes publicas a formato svg

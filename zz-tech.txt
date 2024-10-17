@@ -1,0 +1,14 @@
+- git (control de versiones)
+- css: sass con next modules
+- material ui
+- redux toolkit
+
+
+- jest, rtl
+- mongo & mongoose ?
+- react-query ?
+- i18next
+
+- next
+- ts
+- app-router: forma de crear rutas de next
