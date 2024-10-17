@@ -1,7 +1,7 @@
 import * as React from 'react';
 
-const TestComponent: React.FC = () => {
+const Navbar: React.FC = () => {
   return <div>Navbar</div>;
 };
 
-export default TestComponent;
+export default Navbar;

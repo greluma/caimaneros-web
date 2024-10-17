@@ -1,4 +1,3 @@
-- redux toolkit
 - git (crear ramas de git flow)
 
 
@@ -6,10 +5,11 @@
 - mongo & mongoose ?
 - react-query ?
 - i18next
-- material ui
 
 Ya:
 - next
 - ts
 - css: sass con next modules
 - nativa: app-router: forma de crear rutas de next
+- material ui
+- redux toolkit
