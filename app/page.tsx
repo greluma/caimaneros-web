@@ -18,7 +18,6 @@ const RootPage: React.FC<RootPageProps> = () => {
         <h2>Hola Puro!!! . Nuevo proyecto running</h2>
         <h3>Tu chama saludando desde España</h3>
         <h1>Love U!!!</h1>
-        <h4>Que paso</h4>
       </div>
     </div>
   );
