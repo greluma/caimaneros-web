@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Open+Sans:wght@400;700&display=swap');
+
+// * Font family
+$font-primary: 'Open Sans', sans-serif;
+$font-secondary: 'Architects Daughter', cursive;
+
+// * Font size
+// PC
+$font-size-desktop: 14px;
+// Tablet
+$font-size-tablet: 16px;
+$font-size-tablet-reduced: calc(
+  #{$font-size-tablet} - #{$font-size-tablet} * 0.1
+);
+
+// Móvil
+$font-size-phone: 18px;
+$font-size-phone-reduced: calc(
+  #{$font-size-phone} - #{$font-size-phone} * 0.15
+);
+
+html {
+  font-family: $font-primary;
+  & h1 {
+    font-size: 2.5rem;
+  }
+  & h2 {
+    font-size: 2rem;
+  }
+  & h3 {
+    font-size: 1.75rem;
+  }
+  & h4 {
+    font-size: 1.5rem;
+  }
+  & h5 {
+    font-size: 1.25rem;
+  }
+  & h6 {
+    font-size: 1rem;
+  }
+  & p {
+    font-size: 1rem;
+  }
+
+  // * Media queries
+  // * Desktop
+  @media (max-width: 1200px) {
+    font-size: $font-size-desktop;
+  }
+  // * Tablet
+  @media (max-width: 992px) {
+    font-size: $font-size-tablet-reduced;
+  }
+  // * Móvil
+  @media (max-width: 768px) {
+    font-size: $font-size-phone-reduced;
+  }
+}
